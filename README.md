@@ -92,7 +92,8 @@ $ lsmod | grep 88XXau
 $ dmesg | grep 8812
 ```
 ### Result && Photo
-![affd702a9b750cff71ec4cd4d1cad8ef](https://github.com/user-attachments/assets/ce24c1ce-1f8d-44c0-803e-9d2591d7cda8)
+![affd702a9b750cff71ec4cd4d1cad8ef](https://github.com/user-attachments/assets/ea624cc0-e593-47de-ad33-aac9afd50770)
+
 
 
 
