@@ -40,8 +40,9 @@ Only for use Android
 | **Provider Version**  | SAOMC_SM-A245F_OJM_XSG_14_0005 ㅤ ㅤ  ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤㅤ ㅤ ㅤ ㅤ ㅤㅤ ㅤ|
     
  
-This repository enables cross-compilation of Android kernel modules for the SM-A245F device on Linux. Verified on:  
-`Linux kali 6.12.20-amd64 #1 SMP PREEMPT_DYNAMIC Kali 6.12.20-1kali1 (2025-03-26) x86_64`
+This repository allows cross-compiling Android kernel modules for the SM-A245F device in a Linux environment. Tested on the system:
+`Linux kali 6.12.20-amd64 #1 SMP PREEMPT_DYNAMIC Kali 6.12.20-1kali1 (2025-03-26) x86_64`.
+There is no guarantee that the driver will work correctly. Proceed with extreme caution, as the driver may damage your system.
 
 ## Download
 ```
