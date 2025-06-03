@@ -91,9 +91,9 @@ Verify module load:
 $ lsmod | grep 88XXau
 $ dmesg | grep 8812
 ```
-### Result && Photo
 ## KaliNethunter
   ![KaliNethunter](https://github.com/user-attachments/assets/ea624cc0-e593-47de-ad33-aac9afd50770)
+## Termux/Debian
 
 
 
