@@ -54,6 +54,10 @@ $ cd SM-A24*
 $ sudo apt-get update -y
 $ sudo apt-get install bc bison flex mokutil build-essential libelf-dev
 ```
+Prepare your directory with kernel modules `...staging/this-directory` that you obtained when you successfully compiled and built the kernel source code, move it to `/lib/modules/this-directory`.
+```
+$ cp -r /home/motherfucker/Desktop/MyKernel/out/target/product/a24/obj/KERNEL_OBJ/staging/lib/modules/5.10.198-android12-9/ /lib/modules/
+```
 ### Using Build Script
 ```
 $ ./build_module.sh
