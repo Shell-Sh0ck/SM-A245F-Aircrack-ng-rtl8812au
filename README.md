@@ -93,7 +93,6 @@ $ dmesg | grep 8812
 ```
 ## KaliNethunter
   ![KaliNethunter](https://github.com/user-attachments/assets/ea624cc0-e593-47de-ad33-aac9afd50770)
-## Termux/Debian
 
 
 
