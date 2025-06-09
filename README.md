@@ -46,7 +46,7 @@ There is no guarantee that the driver will work correctly. Proceed with extreme 
 
 ## Download
 ```
-$ git clone https://github.com/Shell-Sh0ck/SM-A245F-Aircrack-ng-rtl8812au.git
+$ git clone https://github.com/Shell-Sh0ck/sm-a245f-aircrack-rtl8812au.git
 $ cd SM-A24*
 ```
 ### Package / Build dependencies (Kali Linux)
